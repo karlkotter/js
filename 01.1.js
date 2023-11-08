@@ -5,7 +5,9 @@ harjutus 1
 */
 
 
+console.log("------------------------------------------------------")
 console.log("Harjutus 1")
+console.log("------------------------------------------------------")
 let Number = 4.2;
 let String = "Will code 4 food";
 let Number2 = 123;
